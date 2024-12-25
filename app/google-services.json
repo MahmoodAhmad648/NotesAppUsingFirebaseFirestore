@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "436103853687",
+    "firebase_url": "https://fir-storageanddatabase-3957b-default-rtdb.firebaseio.com",
+    "project_id": "fir-storageanddatabase-3957b",
+    "storage_bucket": "fir-storageanddatabase-3957b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436103853687:android:ee1bfeb6480928a1f23872",
+        "android_client_info": {
+          "package_name": "com.mahmood.firebaseseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436103853687-cec019at28d7ve65sv0h684ub48ecuin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahmood.firebaseseries",
+            "certificate_hash": "971d1e40bcc5eac2611ce315f25ef64711ceb6d6"
+          }
+        },
+        {
+          "client_id": "436103853687-sfudlh12tliu7tcrp71vfa35l5taosaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68__oCrkfskKPaGKDcdd_1EFJ5sIzGyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436103853687-bm1ttmsp7n469djd9dtuo6hqd5lvblak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436103853687:android:aa25258670586107f23872",
+        "android_client_info": {
+          "package_name": "com.mahmood.firebasestorageanddatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436103853687-sfudlh12tliu7tcrp71vfa35l5taosaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68__oCrkfskKPaGKDcdd_1EFJ5sIzGyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436103853687-bm1ttmsp7n469djd9dtuo6hqd5lvblak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436103853687:android:8fe4dcdf9a24fbdaf23872",
+        "android_client_info": {
+          "package_name": "com.mahmood.notesappusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436103853687-sfudlh12tliu7tcrp71vfa35l5taosaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68__oCrkfskKPaGKDcdd_1EFJ5sIzGyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436103853687-bm1ttmsp7n469djd9dtuo6hqd5lvblak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
